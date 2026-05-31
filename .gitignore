@@ -1,0 +1,7 @@
+.next
+node_modules
+.npm-cache
+.tmp
+server-*.log
+server-*.err
+*.tsbuildinfo
